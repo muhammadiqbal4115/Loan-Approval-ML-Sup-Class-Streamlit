@@ -15,7 +15,7 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 ######################################################################################################
 # Streamlit Page Setup
 ######################################################################################################
-st.set_page_config(page_title="💵 LOAN PREDICTION", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="LOAN PREDICTION", layout="wide", page_icon="💵", initial_sidebar_state="expanded")
 
 ######################################################################################################
 # NEON RED THEME — Times New Roman — Global CSS Injection
